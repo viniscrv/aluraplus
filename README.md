@@ -1,1 +1,3 @@
-# Projeto de estudo utilizando HTML e CSS
+# Alura Plus
+
+Projeto feito durante o curso Praticando HTML e CSS Alura.
